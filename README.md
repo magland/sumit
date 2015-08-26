@@ -10,7 +10,7 @@ Usage: sumit [path_to_file_or_directory]
 
 ## How to use
 
-* Requires Qt4 or Qt4
+* Requires Qt4 or Qt5
 
 ```bash
 > cd sumit
